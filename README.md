@@ -7,7 +7,7 @@ Screenshot Renamer is a Python script that automatically renames image files in 
 ## Features
 
 - **Automatic Image Renaming:** Renames images based on their content using AI.
-- **Supports Multiple Formats:** Works with JPG, JPEG, PNG, and GIF.
+- **Supports Multiple Formats:** Works with JPG, JPEG and PNG.
 - **Image Resizing:** Resizes images larger than 1024 pixels on the longer side to optimize processing.
 - **Environment Variables:** Utilizes a `.env` file for secure API key and folder path management.
 

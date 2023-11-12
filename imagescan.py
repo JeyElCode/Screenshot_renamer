@@ -11,7 +11,7 @@ load_dotenv()
 api_key = os.getenv("OPENAI_API_KEY")
 folder_path = os.getenv("FOLDER_PATH")
 
-allowed_extensions = [".jpg", ".jpeg", ".png", ".gif"]
+allowed_extensions = [".jpg", ".jpeg", ".png"]
 
 
 def encode_image(image_path):

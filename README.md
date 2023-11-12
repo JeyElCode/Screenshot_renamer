@@ -14,16 +14,16 @@ Screenshot Renamer is a Python script that automatically renames image files in 
 ## Requirements
 
 - Python 3.x
-- Pillow library (`PIL`)
-- `python-dotenv` library
+- Pillow library (PIL)
+- python-dotenv library
 - OpenAI API key
 
 ## Installation
 
 1. **Clone the repository:**
    ```sh
-   git clone [repository-url]
-   cd [repository-name]
+   git clone [repo-url]
+   cd [repo-name]
    ```
 
 2. **Install required packages:**
